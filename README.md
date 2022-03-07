@@ -1,2 +1,3 @@
 # middle-finger-spinner
-![Screenshots](/Screenshot2022-03-06173243.png)
+Tired of spinning the bottles? Spin the middle finger! <br>
+![Screenshots](Screenshot-2022-03-06.png)
